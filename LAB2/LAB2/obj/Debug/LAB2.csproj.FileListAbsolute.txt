@@ -1,0 +1,9 @@
+J:\CIS 199\LAB2\LAB2\bin\Debug\LAB2.exe.config
+J:\CIS 199\LAB2\LAB2\bin\Debug\LAB2.exe
+J:\CIS 199\LAB2\LAB2\bin\Debug\LAB2.pdb
+J:\CIS 199\LAB2\LAB2\obj\Debug\LAB2.csprojAssemblyReference.cache
+J:\CIS 199\LAB2\LAB2\obj\Debug\LAB2.TipCalculator.resources
+J:\CIS 199\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+J:\CIS 199\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+J:\CIS 199\LAB2\LAB2\obj\Debug\LAB2.exe
+J:\CIS 199\LAB2\LAB2\obj\Debug\LAB2.pdb
